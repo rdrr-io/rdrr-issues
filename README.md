@@ -1,6 +1,6 @@
 # rdrr.io issues
 
-If you want to suggest a new feature or report a bug, please create an issue against this repository.
+If you want to suggest a new feature or report a bug, please create an issue against this repository. **[Click here to go to the issues page.](https://github.com/rdrr-io/rdrr-issues/issues)**
 
 These are specifically issues for the rdrr.io *website* - how it looks, how it works, and the accuracy of the content inside it.
 
